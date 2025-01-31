@@ -44,7 +44,7 @@ This project aims to provide a comprehensive analysis of gender equality indicat
 
 ## Links
 
-- [Project Repository](https://github.com/Melchmanu/Gender-Equality-Indicators-Analysis-in-Compliance-with-GDPR)
+- [Workflow](https://github.com/Melchmanu/Gender-Equality-Indicators-Analysis-in-Compliance-with-GDPR/blob/main/Melchiori_Manuel_1_workflow_KNIME_092024.knwf)
 - [KNIME Workflow Image](https://github.com/Melchmanu/Gender-Equality-Indicators-Analysis-in-Compliance-with-GDPR/blob/main/knime.jpg)
 
 
